@@ -1,5 +1,5 @@
 # Perceptron-Hotel-Review-Classifier
-Corpus for Homework 2, USC CSCI 544, Spring 2018
+Corpus for Homework 3, USC CSCI 544, Spring 2018
 
 Adapted from the Deceptive Opinion Spam Corpus v1.4
 
